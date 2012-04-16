@@ -23,3 +23,5 @@ ironfan-scrubby works together with the full ironfan toolset:
 * [ironfan wiki](https://github.com/infochimps-labs/ironfan/wiki): high-level documentation and install instructions
 * [ironfan issues](https://github.com/infochimps-labs/ironfan/issues): bugs, questions and feature requests for *any* part of the ironfan toolset.
 * [ironfan gem docs](http://rdoc.info/gems/ironfan): rdoc docs for ironfan
+
+**Note**: Ironfan is [not compatible with Ruby 1.8](https://github.com/infochimps-labs/ironfan/issues/127). All versions later than 1.9.2-p136 should work fine.
